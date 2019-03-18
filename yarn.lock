@@ -106,9 +106,9 @@
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.1.7"
 
-"@fortawesome/vue-fontawesome@0.0.22":
-  version "0.0.22"
-  resolved "https://registry.yarnpkg.com/@fortawesome/vue-fontawesome/-/vue-fontawesome-0.0.22.tgz#720457bda0e5866265e5e0f8fe4fbd857fa5653f"
+"@fortawesome/vue-fontawesome@0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@fortawesome/vue-fontawesome/-/vue-fontawesome-0.1.6.tgz#18a0f4263b90f65180fc927325ba01896276ea04"
 
 "@videojs/http-streaming@^1.0.2":
   version "1.1.0"
